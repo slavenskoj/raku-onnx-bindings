@@ -1,5 +1,11 @@
 Revision history for ONNX::Runtime
 
+0.0.3  2025-06-16
+    - README.md update
+
+0.0.2  2025-06-16
+    - README.md update
+
 0.0.1  2025-06-16
     - Initial release
     - Basic ONNX Runtime C API bindings

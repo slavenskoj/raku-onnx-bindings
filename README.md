@@ -214,7 +214,7 @@ onnx-raku-bindings/
 
 ## Contributing
 
-https://github.com/slavenskoj/raku-onnx-raku-bindings
+https://github.com/slavenskoj/raku-onnx-bindings
 
 ## Author
 
