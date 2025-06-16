@@ -2,6 +2,12 @@
 
 Native Raku bindings for [Open Neural Network Exchange (ONNX) Runtime](https://github.com/microsoft/onnxruntime/releases), allowing you to run [ONNX models](https://onnx.ai) directly in Raku using the C API.
 
+**Access to Transformer Models** - Run [BERT](https://en.wikipedia.org/wiki/BERT_(language_model)), [GPT-2](https://en.wikipedia.org/wiki/GPT-2), RoBERTa, and other modern NLP models directly in Raku without Python dependencies
+
+**Hugging Face Integration** - Any model from [Hugging Face](https://huggingface.co) can be exported to ONNX and used in Raku
+
+**Production-Ready Deep Learning** - ONNX models are optimized for inference, offering better performance than Python for deployment
+
 **This is an initial implementation focusing on core functionality and is in development and testing.**
 
 ## Features
