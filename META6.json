@@ -1,7 +1,7 @@
 {
     "name": "ONNX::Runtime",
     "description": "Native Raku bindings for ONNX Runtime - run ONNX models directly in Raku",
-    "version": "0.0.1",
+    "version": "0.0.6",
     "perl": "6.d",
     "auth": "zef:slavenskoj",
     "authors": ["Danslav Slavenskoj"],

@@ -1,5 +1,14 @@
 Revision history for ONNX::Runtime
 
+0.0.6  2025-06-16
+    - The core issue remains: Raku's precompilation system hangs when modules use NativeCall with function pointers obtained at runtime
+
+0.0.5  2025-06-16
+    - Tested the updated bindings with MNIST model
+
+0.0.4  2025-06-16
+    - Updated the Raku bindings to use the correct ONNX Runtime C API approach with function pointers
+
 0.0.3  2025-06-16
     - README.md update
 

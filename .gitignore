@@ -4,6 +4,9 @@
 
 MANIFEST.skip
 
+onnxruntime-osx-universal2-1.16.3/
+onnxruntime-osx-universal2-1.16.3.tgz
+
 # ONNX Runtime downloaded files (keep the headers for reference)
 *.tgz
 *.tar.gz
@@ -27,3 +30,7 @@ Thumbs.db
 *.tar.gz
 ONNX-Runtime-*.tar.gz
 .fez/
+mnist-8.onnx
+implementation-plan.md
+README-ONNX-Runtime.md
+README-precompilation-issue.md
