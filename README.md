@@ -29,7 +29,7 @@ Native Raku bindings for [Open Neural Network Exchange (ONNX) Runtime](https://g
 
 ## Installation
 
-### From zef ecosystem (when published)
+### From zef ecosystem
 
 ```bash
 zef install ONNX::Runtime
