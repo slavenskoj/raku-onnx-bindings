@@ -212,19 +212,6 @@ onnx-raku-bindings/
 └── README.md
 ```
 
-## Module Status
-
-This module is ready for testing and feedback. It has been prepared for distribution via the Raku ecosystem (zef/fez).
-
-To publish to the ecosystem:
-```bash
-# Ensure you have fez installed
-zef install fez
-
-# Upload to ecosystem (requires fez account)
-fez upload
-```
-
 ## Contributing
 
 https://github.com/slavenskoj/raku-onnx-raku-bindings
