@@ -1,6 +1,6 @@
 # ONNX Runtime Bindings for Raku
 
-Native Raku bindings for [ONNX Runtime](https://github.com/microsoft/onnxruntime/releases), allowing you to run [ONNX models](https://onnx.ai) directly in Raku using the C API.
+Native Raku bindings for [Open Neural Network Exchange (ONNX) Runtime](https://github.com/microsoft/onnxruntime/releases), allowing you to run [ONNX models](https://onnx.ai) directly in Raku using the C API.
 
 **This is an initial implementation focusing on core functionality and is in development and testing.**
 
