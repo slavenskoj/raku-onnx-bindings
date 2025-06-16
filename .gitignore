@@ -30,7 +30,7 @@ Thumbs.db
 *.tar.gz
 ONNX-Runtime-*.tar.gz
 .fez/
+README-ONNX-Runtime.md
 mnist-8.onnx
 implementation-plan.md
-README-ONNX-Runtime.md
 README-precompilation-issue.md
