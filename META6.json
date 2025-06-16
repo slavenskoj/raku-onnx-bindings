@@ -1,0 +1,33 @@
+{
+    "name": "ONNX::Runtime",
+    "description": "Native Raku bindings for ONNX Runtime - run ONNX models directly in Raku",
+    "version": "0.0.1",
+    "perl": "6.d",
+    "auth": "zef:slavenskoj",
+    "authors": ["Danslav Slavenskoj"],
+    "depends": [],
+    "build-depends": [],
+    "test-depends": [
+        "Test"
+    ],
+    "provides": {
+        "ONNX::Runtime": "lib/ONNX/Runtime.rakumod",
+        "ONNX::Runtime::API": "lib/ONNX/Runtime/API.rakumod",
+        "ONNX::Runtime::Types": "lib/ONNX/Runtime/Types.rakumod"
+    },
+    "resources": [],
+    "license": "MIT",
+    "source-url": "https://github.com/slavenskoj/raku-onnx-bindings.git",
+    "tags": [
+        "ONNX",
+        "Machine Learning",
+        "Deep Learning",
+        "AI",
+        "Neural Networks",
+        "NativeCall",
+        "Inference",
+        "Model"
+    ],
+    "raku": "6.d",
+    "api": "1"
+}

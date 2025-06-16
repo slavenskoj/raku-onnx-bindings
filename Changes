@@ -1,0 +1,14 @@
+Revision history for ONNX::Runtime
+
+0.0.1  2025-06-16
+    - Initial release
+    - Basic ONNX Runtime C API bindings
+    - Support for loading and running ONNX models
+    - Query model input/output information
+    - Support for multiple tensor types:
+      * Float32, Float64 (Double)
+      * Int8, UInt8, Int16, UInt16, Int32, UInt32, Int64, UInt64
+      * Boolean
+    - Automatic memory management
+    - High-level Raku interface
+    - Examples and basic tests included

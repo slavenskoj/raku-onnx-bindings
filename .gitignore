@@ -1,0 +1,29 @@
+# Raku precompiled files
+.precomp/
+*.moarvm
+
+MANIFEST.skip
+
+# ONNX Runtime downloaded files (keep the headers for reference)
+*.tgz
+*.tar.gz
+
+# Editor files
+*.swp
+*.swo
+*~
+.*.swp
+.*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test artifacts
+.prove
+.test-results/
+
+# Distribution files
+*.tar.gz
+ONNX-Runtime-*.tar.gz
+.fez/
